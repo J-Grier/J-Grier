@@ -14,7 +14,7 @@ LSTM-based model tracks viewer sentiment across Reddit and YouTube in response t
 ---
 
 ### 🎞️ [Predicting TV Episode Reception with Bayesian Neural Networks](https://github.com/J-Grier/streaming-reception-bnn)
-Uses Reddit discussions to predict IMDb episode ratings using a Bayesian Neural Network across 10+ shows including *Severance*, *The Bear*, *Velma*, and *One Piece*. Integrates latent topic distributions (via LDA) and sentiment scores (via VADER) to forecast reception.
+Uses Reddit discussions to predict IMDb episode ratings using a Bayesian Neural Network across 10+ shows including *Severance*, *Daredevil: Born Again*, *Bluey*, and *One Piece*. Integrates latent topic distributions (via LDA) and sentiment scores (via VADER) to forecast reception.
 
 > 📈 Bayesian Neural Networks | 💬 Topic + sentiment fusion | 🎭 Episode-level modeling | 🧠 Uncertainty estimation
 
