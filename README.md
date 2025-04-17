@@ -78,6 +78,7 @@ I'm always open to connecting on exciting projects or opportunities in data scie
 ---
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
