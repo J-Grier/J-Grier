@@ -1,43 +1,69 @@
 # 👋 Hi, I’m John Grier
 
-I’m a data science graduate student at Illinois Tech focused on **Bayesian modeling**, **natural language processing**, and **finance**. I build systems that connect statistical reasoning to real-world problems — from streaming reception to portfolio strategy and generative model interpretation.
+I'm an MS Data Science candidate at Illinois Tech specializing in quantitative modeling, natural language processing (NLP), and Bayesian inference. I'm passionate about building data-driven solutions that deliver actionable insights, compelling storytelling, and real-world impact.
+
+---
+## 📚 Core Skills
+- **Quantitative Analysis & Modeling** (Linear Regression, Bayesian Methods, Clustering)
+- **Machine Learning & NLP** (RNNs, LSTM, GRU, CNNs, Transformers [BERT, GPT], Attention Mechanisms, Sentiment Analysis, Topic Modeling)
+- **Probabilistic Programming** (Pyro, Bayesian Neural Networks, Variational Inference)
+- **Data Engineering & Web Scraping** (Reddit, YouTube, Yahoo Finance, FRED, Sports Analytics Data)
+- **Technical Communication & Visualization** (Matplotlib, Seaborn, Plotly)
 
 ---
 
-## 📂 Featured Projects
+## 🗂️ Highlighted Projects
 
-### 🎬 [Streaming Sentiment Tracker](https://github.com/J-Grier/streaming-sentiment-tracker)
-LSTM-based model tracks viewer sentiment across Reddit and YouTube in response to show releases. Incorporates topic modeling (LDA) and short-form text classification to monitor engagement and emotional tone.
+### 🎬 [Streaming Reception Bayesian Neural Network (BNN)](https://github.com/J-Grier/streaming-reception-bnn)
+- **Goal**: Predict audience ratings for streaming TV episodes using Bayesian Neural Networks, topic modeling, and sentiment analysis.
+- **Impact**: Accurately identified cultural outliers and successfully predicted episode reception across diverse genres.
+- **Tools**: Pyro, LDA, VADER, Python
 
-> 🧠 LSTM | 💬 Reddit/YouTube APIs | 🔍 NLP pipelines | 📊 Fan sentiment analysis
+### 📈 [Quantitative Stock Models](https://github.com/J-Grier/quantitative-stock-models)
+- **Goal**: Develop and compare quantitative strategies (Linear Regression, Clustering, Bayesian Inference) to outperform the S&P 500.
+- **Impact**: Achieved a 44% annual return, significantly outperforming benchmark indices.
+- **Tools**: Scikit-learn, Pandas, NumPy, Yahoo Finance API, Python
 
----
-
-### 🎞️ [Predicting TV Episode Reception with Bayesian Neural Networks](https://github.com/J-Grier/streaming-reception-bnn)
-Uses Reddit discussions to predict IMDb episode ratings using a Bayesian Neural Network across 10+ shows including *Severance*, *Daredevil: Born Again*, *Bluey*, and *One Piece*. Integrates latent topic distributions (via LDA) and sentiment scores (via VADER) to forecast reception.
-
-> 📈 Bayesian Neural Networks | 💬 Topic + sentiment fusion | 🎭 Episode-level modeling | 🧠 Uncertainty estimation
-
----
-
-### 📈 [Quantitative Stock Portfolio Models](https://github.com/J-Grier/quantitative-stock-models)
-Compares regression, clustering, and Bayesian inference models for selecting outperforming stocks relative to the S&P 500. Includes volatility filters, signal-based strategies, and performance evaluation.
-
-> 📊 Clustering & regression | 🧮 Bayesian inference | 📉 Market simulation | 🔬 SPY comparison
-
----
-
-### 🧠 [Bayesian NCAA Tournament Simulator](#)
-(Coming soon) — A Bayesian Neural Network trained on historical college basketball data to forecast tournament matchups. Models uncertainty across team performance, seeding, and variability in outcomes.
-
-> 📘 Pyro BNN | 🏀 Tournament prediction | 🔁 Posterior sampling | ⚖️ Class imbalance modeling
-
----
+### 📺 [Streaming Sentiment Tracker](https://github.com/J-Grier/streaming-sentiment-tracker)
+- **Goal**: Classify and interpret audience sentiment from YouTube and Reddit discussions using advanced NLP techniques.
+- **Impact**: Built a robust sentiment engine, accurately forecasting show reception and identifying key drivers behind viewer reactions.
+- **Tools**: LSTM, VADER, LDA, FastText, Python
 
 ### 🌍 [Data-Driven CAGE Strategy Advisor](#)
-(Ongoing) — A decision support tool that quantifies international expansion opportunities using the CAGE framework (Cultural, Administrative, Geographic, Economic). Combines structured global datasets with an interactive Streamlit dashboard for market entry simulation.
+- **Goal**: Develop a decision-support tool quantifying international expansion opportunities using the CAGE framework (Cultural, Administrative, Geographic, Economic).
+- **Impact**: Provides strategic market entry recommendations using structured global datasets and interactive scenario modeling.
+- **Tools**: World Bank data, Hofstede cultural dimensions, Python, Streamlit dashboard
 
-> 🌐 CAGE modeling | 📊 World Bank & Hofstede data | 🧩 Strategic scoring | 🧠 Streamlit interface
+---
+
+
+## 🎓 Education
+- **Illinois Institute of Technology**, MS Data Science (Expected Graduation: 2025)
+- **Michigan State University**, BA Political Science
+
+---
+
+## 📊 Professional Interests
+- **Quantitative Finance and Trading**
+- **NLP & Social Media Analysis**
+- **Data-Driven Content Strategy**
+- **Machine Learning Product Deployment**
+
+---
+
+## 📈 Recent Updates & Future Directions
+- Actively developing more comprehensive sentiment models integrating multiple platforms (Twitter, YouTube).
+- Exploring advanced hybrid NLP architectures for improved forecasting of user engagement and financial performance.
+- Refining quantitative models for real-time financial forecasting and decision-making.
+
+---
+
+## 💬 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/john-grier/)  
+[jgrier@hawk.iit.edu](mailto:jgrier@hawk.iit.edu)
+
+I'm always open to connecting on exciting projects or opportunities in data science and quantitative analysis. Let's chat!
 
 ---
 
@@ -50,14 +76,17 @@ Compares regression, clustering, and Bayesian inference models for selecting out
 - **Streamlit**, **SQL**, **Jupyter**, **PostgreSQL**, **Git/GitHub**
 
 ---
+## 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=PostgreSQL)
 
-## 🔎 Currently Exploring
+---
 
-- HDP-based generative priors in BNNs
-- Reddit discourse modeling and transformer fine-tuning
-- Streaming reception modeling with soft labels + probabilistic fusion
+## 📝 Publications and Writing
+- Check my GitHub repositories for detailed reports, visualizations, and analysis pipelines on finance, NLP, and predictive modeling.
 
-📫 Reach out:  
-[LinkedIn](https://www.linkedin.com/in/john-grier/)  
-[jgrier@hawk.iit.edu](mailto:jgrier@hawk.iit.edu)
 
