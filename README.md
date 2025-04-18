@@ -29,10 +29,10 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 - **Impact**: Built a robust sentiment engine, accurately forecasting show reception and identifying key drivers behind viewer reactions.
 - **Tools**: LSTM, VADER, LDA, FastText, Python
 
-### 🌍 [Data-Driven CAGE Strategy Advisor](#)
-- **Goal**: Develop a decision-support tool quantifying international expansion opportunities using the CAGE framework (Cultural, Administrative, Geographic, Economic).
-- **Impact**: Provides strategic market entry recommendations using structured global datasets and interactive scenario modeling.
-- **Tools**: World Bank data, Hofstede cultural dimensions, Python, Streamlit dashboard
+### 🌍 [Data-Driven CAGE Strategy Advisor](https://github.com/J-Grier/Global-Market-Expansion-Simulator)
+- **Goal**: Build a decision-support tool to quantify and visualize optimal international market entry decisions using the comprehensive CAGE framework (Cultural, Administrative, Geographic, Economic).
+- **Impact**: Empowers businesses with strategic, actionable insights by transforming structured global data into intuitive, interactive expansion scenarios.
+- **Tools**: World Bank Indicators, Hofstede Cultural Dimensions, Geopy, Python, Streamlit Interactive Dashboard
 
 ---
 
