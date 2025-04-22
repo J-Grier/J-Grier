@@ -14,7 +14,7 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 
 ## 🗂️ Highlighted Projects
 
-### 📉 [Bayesian Financial Forecasting & Volatility Modeling]([https://github.com/J-Grier/volatility_forecasting])
+### 📉 [Bayesian Financial Forecasting & Volatility Modeling](https://github.com/J-Grier/volatility_forecasting)
 - **Goal**: Forecast stock volatility using Bayesian statistical methods (Bayesian AR(1), Bayesian Hidden Markov Models), compared against classical methods (ARIMA, Prophet).
 - **Impact**: Demonstrated superior forecasting accuracy and explicit uncertainty quantification, significantly outperforming classical forecasting models.
 - **Tools**: PyMC, NumPyro, ARIMA, Prophet, Python, Yahoo Finance API
@@ -56,10 +56,13 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 
 ---
 
-## 📈 Recent Updates & Future Directions
-- Actively developing more comprehensive sentiment models integrating multiple platforms (Twitter, YouTube).
-- Exploring advanced hybrid NLP architectures for improved forecasting of user engagement and financial performance.
-- Refining quantitative models for real-time financial forecasting and decision-making.
+## 🚀 Recent Updates & Future Directions
+
+- Currently extending insights from the recent [**Bayesian Financial Forecasting & Volatility Modeling**](https://github.com/J-Grier/Bayesian_Financial_Forecasting_Volatility_Modeling) project by exploring advanced Bayesian architectures and computational optimizations for broader financial applications..
+- Expanding sentiment analysis frameworks by integrating data from multiple platforms (Twitter, YouTube, Reddit) to improve content engagement forecasting.
+- Exploring advanced Bayesian neural networks and hybrid NLP architectures to enhance predictive performance in finance, media analytics, and strategic decision-making.
+- Optimizing computational performance for complex probabilistic models (e.g., Bayesian HMM) using Pyro, NumPyro, and TensorFlow Probability for scalable deployment.
+
 
 ---
 
