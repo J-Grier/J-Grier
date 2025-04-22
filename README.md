@@ -14,15 +14,15 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 
 ## 🗂️ Highlighted Projects
 
+### 📉 [Bayesian Financial Forecasting & Volatility Modeling]([https://github.com/J-Grier/volatility_forecasting])
+- **Goal**: Forecast stock volatility using Bayesian statistical methods (Bayesian AR(1), Bayesian Hidden Markov Models), compared against classical methods (ARIMA, Prophet).
+- **Impact**: Demonstrated superior forecasting accuracy and explicit uncertainty quantification, significantly outperforming classical forecasting models.
+- **Tools**: PyMC, NumPyro, ARIMA, Prophet, Python, Yahoo Finance API
+
 ### 🎬 [Streaming Reception Bayesian Neural Network (BNN)](https://github.com/J-Grier/streaming-reception-bnn)
 - **Goal**: Predict audience ratings for streaming TV episodes using Bayesian Neural Networks, topic modeling, and sentiment analysis.
 - **Impact**: Accurately identified cultural outliers and successfully predicted episode reception across diverse genres.
 - **Tools**: Pyro, LDA, VADER, Python
-
-### 📈 [Quantitative Stock Models](https://github.com/J-Grier/quantitative-stock-models)
-- **Goal**: Develop and compare quantitative strategies (Linear Regression, Clustering, Bayesian Inference) to outperform the S&P 500.
-- **Impact**: Achieved a 44% annual return, significantly outperforming benchmark indices.
-- **Tools**: Scikit-learn, Pandas, NumPy, Yahoo Finance API, Python
 
 ### 📺 [Streaming Sentiment Tracker](https://github.com/J-Grier/streaming-sentiment-tracker)
 - **Goal**: Classify and interpret audience sentiment from YouTube and Reddit discussions using advanced NLP techniques.
@@ -33,6 +33,11 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 - **Goal**: Build a decision-support tool to quantify and visualize optimal international market entry decisions using the comprehensive CAGE framework (Cultural, Administrative, Geographic, Economic).
 - **Impact**: Empowers businesses with strategic, actionable insights by transforming structured global data into intuitive, interactive expansion scenarios.
 - **Tools**: World Bank Indicators, Hofstede Cultural Dimensions, Geopy, Python, Streamlit Interactive Dashboard
+
+### 📈 [Quantitative Stock Models](https://github.com/J-Grier/quantitative-stock-models)
+- **Goal**: Develop and compare quantitative strategies (Linear Regression, Clustering, Bayesian Inference) to outperform the S&P 500.
+- **Impact**: Achieved a 44% annual return, significantly outperforming benchmark indices.
+- **Tools**: Scikit-learn, Pandas, NumPy, Yahoo Finance API, Python
 
 ---
 
