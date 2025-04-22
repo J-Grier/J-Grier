@@ -24,15 +24,15 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 - **Impact**: Accurately identified cultural outliers and successfully predicted episode reception across diverse genres.
 - **Tools**: Pyro, LDA, VADER, Python
 
-### 📺 [Streaming Sentiment Tracker](https://github.com/J-Grier/streaming-sentiment-tracker)
-- **Goal**: Classify and interpret audience sentiment from YouTube and Reddit discussions using advanced NLP techniques.
-- **Impact**: Built a robust sentiment engine, accurately forecasting show reception and identifying key drivers behind viewer reactions.
-- **Tools**: LSTM, VADER, LDA, FastText, Python
-
 ### 🌍 [Data-Driven CAGE Strategy Advisor](https://github.com/J-Grier/Global-Market-Expansion-Simulator)
 - **Goal**: Build a decision-support tool to quantify and visualize optimal international market entry decisions using the comprehensive CAGE framework (Cultural, Administrative, Geographic, Economic).
 - **Impact**: Empowers businesses with strategic, actionable insights by transforming structured global data into intuitive, interactive expansion scenarios.
 - **Tools**: World Bank Indicators, Hofstede Cultural Dimensions, Geopy, Python, Streamlit Interactive Dashboard
+
+### 📺 [Streaming Sentiment Tracker](https://github.com/J-Grier/streaming-sentiment-tracker)
+- **Goal**: Classify and interpret audience sentiment from YouTube and Reddit discussions using advanced NLP techniques.
+- **Impact**: Built a robust sentiment engine, accurately forecasting show reception and identifying key drivers behind viewer reactions.
+- **Tools**: LSTM, VADER, LDA, FastText, Python
 
 ### 📈 [Quantitative Stock Models](https://github.com/J-Grier/quantitative-stock-models)
 - **Goal**: Develop and compare quantitative strategies (Linear Regression, Clustering, Bayesian Inference) to outperform the S&P 500.
