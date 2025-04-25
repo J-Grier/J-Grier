@@ -35,9 +35,9 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 - **Tools**: LSTM, VADER, LDA, FastText, Python
 
 ### 📈 [Quantitative Stock Models](https://github.com/J-Grier/quantitative-stock-models)
-- **Goal**: Develop and compare quantitative strategies (Linear Regression, Clustering, Bayesian Inference) to outperform the S&P 500.
-- **Impact**: Achieved a 44% annual return, significantly outperforming benchmark indices.
-- **Tools**: Scikit-learn, Pandas, NumPy, Yahoo Finance API, Python
+- **Goal**: Develop and compare quantitative investment strategies (Linear Regression, K-Means Clustering, Bayesian Inference) and dynamically allocate portfolios based on macroeconomic scenarios to outperform the S&P 500.
+- **Impact**: Achieved a 44% annual return in the base scenario, with explicit scenario analysis demonstrating additional strategic flexibility (up to 52% returns in expansion conditions), significantly outperforming benchmark indices.
+- **Tools**: Scikit-learn, Pandas, NumPy, Yahoo Finance API, Python, scenario-based economic modeling
 
 ---
 
