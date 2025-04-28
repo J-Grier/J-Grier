@@ -15,9 +15,9 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 ## 🗂️ Highlighted Projects
 
 ### 📉 [Bayesian Financial Forecasting & Volatility Modeling](https://github.com/J-Grier/volatility_forecasting)
-- **Goal**: Forecast stock volatility using Bayesian statistical methods (Bayesian AR(1), Bayesian Hidden Markov Models), compared against classical methods (ARIMA, Prophet).
-- **Impact**: Demonstrated superior forecasting accuracy and explicit uncertainty quantification, significantly outperforming classical forecasting models.
-- **Tools**: PyMC, NumPyro, ARIMA, Prophet, Python, Yahoo Finance API
+- **Goal**: Develop robust volatility forecasting models, leveraging Bayesian methods to identify regime shifts and generate actionable trading insights.
+- **Impact**: Successfully implemented Hamiltonian Monte Carlo (HMC) Bayesian Hidden Markov Models, significantly enhancing accuracy (MAE: 0.1546, MSE: 0.0289) and providing clearer volatility regime identification compared to traditional models (ARIMA, Prophet).
+- **Tools**: PyMC, NumPyro, Hamiltonian Monte Carlo (HMC), ARIMA, Prophet, Python, Yahoo Finance API
 
 ### 🎬 [Streaming Reception Bayesian Neural Network (BNN)](https://github.com/J-Grier/streaming-reception-bnn)
 - **Goal**: Predict audience ratings for streaming TV episodes using Bayesian Neural Networks, topic modeling, and sentiment analysis.
