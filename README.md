@@ -39,6 +39,11 @@ I'm an MS Data Science candidate at Illinois Tech specializing in quantitative m
 - **Impact**: Achieved a 44% annual return in the base scenario, with explicit scenario analysis demonstrating additional strategic flexibility (up to 52% returns in expansion conditions), significantly outperforming benchmark indices.
 - **Tools**: Scikit-learn, Pandas, NumPy, Yahoo Finance API, Python, scenario-based economic modeling
 
+### ✨ [Generative Adversarial Model for Customized Resume Content](https://github.com/J-Grier/attention-grabbing-resumes)
+- **Goal**: Automate industry-specific resume bullet generation using Conditional GANs with explicit attention mechanisms.
+- **Impact**: Enabled rapid resume customization, significantly reducing tailoring time and effort while maintaining high-quality, contextually accurate resume content.
+- **Tools**: PyTorch, Conditional GANs (CGANs), Attention Mechanisms, NLP, Python
+
 ---
 
 
