@@ -1,6 +1,6 @@
 # 👋 Hi, I’m John Grier
 
-I'm an MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advice to heart*, I approach problems through the lens of uncertainty using both classical and Bayesian frameworks to build models that evolve with data. With a foundation of mathematics and computer science, I believe even the most complex modeling challenges can be broken down to improve decision-making. I'm especially interested in quantitative modeling, generative AI, NLP, and the occasional baseball dataset.
+I'm a MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advice to heart*, I approach problems through the lens of uncertainty using both classical and Bayesian frameworks to build models that evolve with data. With a foundation of mathematics and computer science, I believe even the most complex modeling challenges can be broken down to improve decision-making. I'm especially interested in quantitative modeling, generative AI, NLP, and the occasional baseball dataset.
 
 ---
 ## 📚 Core Skills
