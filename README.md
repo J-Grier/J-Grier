@@ -19,6 +19,11 @@ I'm a MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advi
 - **Impact**: Successfully implemented Hamiltonian Monte Carlo (HMC) Bayesian Hidden Markov Models, significantly enhancing predictive accuracy (MAE: 0.1546, MSE: 0.0289), providing clearer volatility regime identification, and achieving high reliability in actionable trading signals (94% accuracy in regime-based buy/sell decisions).
 - **Tools**: PyMC, NumPyro, Hamiltonian Monte Carlo (HMC), ARIMA, Prophet, Python, Yahoo Finance API
 
+### 🌐 [Tariff Sensitivity Modeling: Hierarchical Bayesian & HDP](https://github.com/J-Grier/the_topic_is_tariffs)
+- **Goal**: Identify and quantify stock sensitivity to tariff-related economic policy using Hierarchical Bayesian Regression and Hierarchical Dirichlet Process (HDP) topic modeling.
+- **Impact**: Successfully categorized equities by tariff resilience, enabling targeted investment decisions that significantly outperform the market during periods of trade-policy volatility.
+- **Tools**: PyMC, Hierarchical Bayesian Regression, HDP topic modeling, NLP, Python, Pandas, NumPy, Yahoo Finance API
+
 ### 🎬 [Streaming Reception Bayesian Neural Network (BNN)](https://github.com/J-Grier/streaming-reception-bnn)
 - **Goal**: Predict audience ratings for streaming TV episodes using Bayesian Neural Networks, topic modeling, and sentiment analysis.
 - **Impact**: Accurately identified cultural outliers and successfully predicted episode reception across diverse genres.
