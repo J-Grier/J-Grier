@@ -19,7 +19,7 @@ I'm a MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advi
 - **Impact**: Successfully implemented Hamiltonian Monte Carlo (HMC) Bayesian Hidden Markov Models, significantly enhancing predictive accuracy (MAE: 0.1546, MSE: 0.0289), providing clearer volatility regime identification, and achieving high reliability in actionable trading signals (94% accuracy in regime-based buy/sell decisions).
 - **Tools**: PyMC, NumPyro, Hamiltonian Monte Carlo (HMC), ARIMA, Prophet, Python, Yahoo Finance API
 
-### 🌐 [Tariff Sensitivity Modeling: Hierarchical Bayesian & HDP](https://github.com/J-Grier/the_topic_is_tariffs)
+### 🌎 [Tariff Sensitivity Modeling: Hierarchical Bayesian & HDP](https://github.com/J-Grier/the_topic_is_tariffs)
 - **Goal**: Identify and quantify stock sensitivity to tariff-related economic policy using Hierarchical Bayesian Regression and Hierarchical Dirichlet Process (HDP) topic modeling.
 - **Impact**: Successfully categorized equities by tariff resilience, enabling targeted investment decisions that significantly outperform the market during periods of trade-policy volatility.
 - **Tools**: PyMC, Hierarchical Bayesian Regression, HDP topic modeling, NLP, Python, Pandas, NumPy, Yahoo Finance API
@@ -29,7 +29,7 @@ I'm a MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advi
 - **Impact**: Accurately identified cultural outliers and successfully predicted episode reception across diverse genres.
 - **Tools**: Pyro, LDA, VADER, Python
 
-### 🌍 [Data-Driven CAGE Strategy Advisor](https://github.com/J-Grier/Global-Market-Expansion-Simulator)
+### 🗺️ [Data-Driven CAGE Strategy Advisor](https://github.com/J-Grier/Global-Market-Expansion-Simulator)
 - **Goal**: Build a decision-support tool to quantify and visualize optimal international market entry decisions using the comprehensive CAGE framework (Cultural, Administrative, Geographic, Economic).
 - **Impact**: Empowers businesses with strategic, actionable insights by transforming structured global data into intuitive, interactive expansion scenarios.
 - **Tools**: World Bank Indicators, Hofstede Cultural Dimensions, Geopy, Python, Streamlit Interactive Dashboard
