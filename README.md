@@ -59,10 +59,12 @@ I'm a Data Scientist with an MS in Data Science from Illinois Tech. *Taking Oliv
 ---
 
 ## 📊 Professional Interests
-- **Quantitative Finance and Trading**
-- **NLP & Social Media Analysis**
-- **Data-Driven Content Strategy**
-- **Machine Learning Product Deployment**
+- **Bayesian & Probabilistic Modeling** 
+- **Healthcare & Clinical Data Science**
+- **Financial Analytics & Quantitative Research**
+- **NLP & Audience Behavior Analysis**
+- **Causal Inference & Experimental Design**
+- **Clean Energy & Public Policy Analytics**
 
 ---
 
