@@ -7,8 +7,8 @@ I'm a Data Scientist with an MS in Data Science from Illinois Tech. *Taking Oliv
 - **Quantitative Analysis & Modeling** (Linear Regression, Bayesian Methods, Clustering)
 - **Machine Learning & NLP** (RNNs, LSTM, GRU, CNNs, Transformers [BERT, GPT], Attention Mechanisms, Sentiment Analysis, Topic Modeling)
 - **Probabilistic Programming** (Pyro, Bayesian Neural Networks, Variational Inference)
-- **Data Engineering & Web Scraping** (Reddit, YouTube, Yahoo Finance, FRED, Sports Analytics Data)
-- **Technical Communication & Visualization** (Matplotlib, Seaborn, Plotly)
+- **Data Engineering & Web Scraping** (Reddit, YouTube, MASSIVE API, Bloomberg Terminal, Yahoo Finance, FRED, Sports Analytics Data)
+- **Technical Communication & Visualization** (Matplotlib, Seaborn, Plotly, Tableau, Power BI, Streamlit)
 
 ---
 
