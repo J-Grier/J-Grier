@@ -68,10 +68,10 @@ I'm a Data Scientist with an MS in Data Science from Illinois Tech. *Taking Oliv
 
 ## 🚀 Recent Updates & Future Directions
 
-- Currently extending insights from the recent [**Bayesian Financial Forecasting & Volatility Modeling**](https://github.com/J-Grier/Bayesian_Financial_Forecasting_Volatility_Modeling) project by exploring advanced Bayesian architectures and computational optimizations for broader financial applications..
-- Expanding sentiment analysis frameworks by integrating data from multiple platforms (Twitter, YouTube, Reddit) to improve content engagement forecasting.
-- Exploring advanced Bayesian neural networks and hybrid NLP architectures to enhance predictive performance in finance, media analytics, and strategic decision-making.
-- Optimizing computational performance for complex probabilistic models (e.g., Bayesian HMM) using Pyro, NumPyro, and TensorFlow Probability for scalable deployment.
+* Extended Bayesian HMM volatility framework from equities to crypto markets (BTC, ETH, SOL) — key finding: crypto crisis regimes last ~5x longer than equity crises
+* Applied Hierarchical Bayesian NLP pipeline to tariff policy sensitivity classification across a 500-stock universe — manuscript under journal review
+* Exploring healthcare ML applications including medical imaging classification using GANs on NIH Chest X-ray dataset
+* Actively developing PySpark and distributed computing skills for large-scale data workflows
 
 
 ---
