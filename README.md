@@ -87,11 +87,14 @@ I'm always open to connecting on exciting projects or opportunities in data scie
 
 ## 🛠️ Tools & Stack
 
-- **Python** (PyTorch, Pyro, Scikit-learn, pandas)
-- **NLP** (Gensim, NLTK, VADER)
-- **Bayesian modeling** (Pyro, probabilistic programming)
-- **Finance & statistics** (statsmodels, MLE, portfolio analysis)
-- **Streamlit**, **SQL**, **Jupyter**, **PostgreSQL**, **Git/GitHub**
+- **Python** (PyTorch, Pyro, PyMC, Scikit-learn, pandas, NumPy)
+- **R** (RStudio/Posit, statistical modeling, Bloomberg Terminal data extraction)
+- **NLP** (Gensim, NLTK, VADER, FastText, spaCy)
+- **Bayesian Modeling** (PyMC, Pyro, NumPyro, probabilistic programming, MCMC, HMC)
+- **Finance & Statistics** (statsmodels, MLE, portfolio analysis, time series, causal inference)
+- **Data Platforms** (Snowflake, PostgreSQL, AWS S3/EC2)
+- **Visualization & BI** (Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly)
+- **Tools** (SQL, Jupyter, Git/GitHub)
 
 ---
 ## 🛠️ Languages and Tools
@@ -102,6 +105,10 @@ I'm always open to connecting on exciting projects or opportunities in data scie
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=PostgreSQL)
+![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=Snowflake)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+![PyMC](https://img.shields.io/badge/-PyMC-black?style=flat-square&logo=Python)
 
 ---
 
