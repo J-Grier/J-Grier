@@ -1,6 +1,6 @@
 # 👋 Hi, I’m John Grier
 
-I'm a MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advice to heart*, I approach problems through the lens of uncertainty using both classical and Bayesian frameworks to build models that evolve with data. With a foundation of mathematics and computer science, I believe even the most complex modeling challenges can be broken down to improve decision-making. I'm especially interested in quantitative modeling, generative AI, NLP, and the occasional baseball dataset.
+I'm a Data Scientist with an MS in Data Science from Illinois Tech. *Taking Oliver Cromwell's advice to heart*, I approach problems through the lens of uncertainty using both classical and Bayesian frameworks to build models that evolve with data. With a foundation of mathematics and computer science, I believe even the most complex modeling challenges can be broken down to improve decision-making. I'm especially interested in quantitative modeling, generative AI, NLP, and the occasional baseball dataset.
 
 ---
 ## 📚 Core Skills
@@ -22,7 +22,7 @@ I'm a MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advi
 ### 🌎 [Tariff Sensitivity Modeling: Hierarchical Bayesian & HDP](https://github.com/J-Grier/the_topic_is_tariffs)
 - **Goal**: Identify and quantify stock sensitivity to tariff-related economic policy using Hierarchical Bayesian Regression and Hierarchical Dirichlet Process (HDP) topic modeling.
 - **Impact**: Successfully categorized equities by tariff resilience, enabling targeted investment decisions that significantly outperform the market during periods of trade-policy volatility.
-- **Tools**: PyMC, Hierarchical Bayesian Regression, HDP topic modeling, NLP, Python, Pandas, NumPy, Yahoo Finance API
+- **Tools**: PyMC, Hierarchical Bayesian Regression, HDP topic modeling, NLP, Python, Pandas, NumPy, MASSIVE API, Bloomberg Terminal (R/RStudio)
 
 ### 🎬 [Streaming Reception Bayesian Neural Network (BNN)](https://github.com/J-Grier/streaming-reception-bnn)
 - **Goal**: Predict audience ratings for streaming TV episodes using Bayesian Neural Networks, topic modeling, and sentiment analysis.
@@ -53,7 +53,7 @@ I'm a MS Data Science candidate at Illinois Tech. *Taking Oliver Cromwell's advi
 
 
 ## 🎓 Education
-- **Illinois Institute of Technology**, MS Data Science (Expected Graduation: 2025)
+- **Illinois Institute of Technology**, MS Data Science (2025)
 - **Michigan State University**, BA Political Science
 
 ---
@@ -106,6 +106,7 @@ I'm always open to connecting on exciting projects or opportunities in data scie
 ---
 
 ## 📝 Publications and Writing
-- Check my GitHub repositories for detailed reports, visualizations, and analysis pipelines on finance, NLP, and predictive modeling.
+- **Peer-Reviewed Research (Under Review):** Co-authored study applying Bayesian NLP and hierarchical causal inference methods to equity market classification — manuscript currently under journal review. Full pipeline available on request.
+For additional reports, visualizations, and analysis pipelines see repositories above.
 
 
